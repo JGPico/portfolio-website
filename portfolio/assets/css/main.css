@@ -2411,6 +2411,10 @@ input, select, textarea {
 
 /* Image */
 
+	.imgfitter {
+		object-fit: fill;
+	}	
+
 	.image {
 		border-radius: 5px;
 		border: 0;
@@ -2462,6 +2466,7 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+
 
 /* List */
 
